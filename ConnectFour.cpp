@@ -201,7 +201,9 @@ bool whoWons(vector<vector<string>>&matrix)
                 }
             }
         }
-
+        
+        printBoard(matrix);
+    
         pair<bool,bool>winsNodes = canThePlayerWins(matrix , nodes , isPlayerOne);
         if(winsNodes.first == true){
             return 1; // 1st Player wins
