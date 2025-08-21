@@ -58,5 +58,3 @@ Libraries: iostream, vector
 📜 License
 
 This project is open-source and free to use.
-
-👉 Ye README concise hai aur ~300–320 words ke andar hai (GitHub ke liye best).
